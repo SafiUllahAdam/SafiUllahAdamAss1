@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head src="./ch1ps.js" >
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PIAIC</title>
+</head>
+/* <body style="background-color:rgb(153, 238, 171) ;">
+    <h1>WELCOME TO PIAIC</h1>
+    <h2>Following Courses Are Being Offered By PIAIC in This Batch</h2>
+    <br /> 
+    <div>
+        <p><b><i>Note :</i></b> Only 5 Days Left For Registration</p>
+    </div>
+    <div>
+        <list style="padding: 20px; color: indigo; ",  >
+            <ol>
+                <li><b>Artificial Intelligence</b></li>
+                <li><b>Web 3.0 & Metaverse Development</b></li>
+                <li><b>Cloud Computing</b></li>
+                <li><b>Quantum Computing</b></li>
+                <li><b>Block Chain</b></li>
+            </ol>
+        </list>
+    </div>
+    <p>The student will be able to earn money while studying in this program. 
+        This program is designed in such a way that students can begin earning
+         money after completing the first six months of the program. They will
+          be assigned Web 2, Web 3, and Metaverse projects that will provide 
+          them with a revenue stream. This revenue stream will continue even 
+          after the completing of the program.
+          <br />
+          All students of the Certified Web 3.0 and Mataverse Program will be 1
+          part of the program with the objective of generating revenue in dollars
+           ASAP. As soon as the students have demonstrated that he/she can do 1
+           professional work using TypeScript, Next.js, Chakra UI, etc. they will
+            become Panacloud Developer Associates. They will be assigned a project 
+            by the Faculty Leads and assigned to one of the following Project Managers
+             who will supervise their work: Hira, Moshin, Aamir, Arsalan, Adil, Waris, 
+             Murtaza, Uzair, Tanzeel, and Hasan.</p>
+             <br />
+
+    <a target="_blank" href="https://www.piaic.org/">Apply Now.</a>  
+</body> 
+</html>
